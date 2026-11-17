@@ -1,0 +1,352 @@
+{
+ "fixed": {
+  "narrator": {
+   "voice": "Chinese (Mandarin)_Gentleman",
+   "emotion": "calm"
+  },
+  "holmes": {
+   "voice": "Chinese (Mandarin)_Reliable_Executive",
+   "emotion": "calm"
+  }
+ },
+ "recurring": {
+  "lestrade": {
+   "voice": "male-qn-jingying-jingpin",
+   "emotion": null
+  },
+  "gregson": {
+   "voice": "Chinese (Mandarin)_Sincere_Adult",
+   "emotion": null
+  },
+  "mycroft": {
+   "voice": "Chinese (Mandarin)_Male_Announcer",
+   "emotion": null
+  },
+  "hudson": {
+   "voice": "Chinese (Mandarin)_Kind-hearted_Antie",
+   "emotion": null
+  },
+  "irene": {
+   "voice": "Chinese (Mandarin)_Wise_Women",
+   "emotion": null
+  },
+  "moriarty": {
+   "voice": "Chinese (Mandarin)_Lyrical_Voice",
+   "emotion": null
+  },
+  "king": {
+   "voice": "male-qn-badao-jingpin",
+   "emotion": null
+  },
+  "jones": {
+   "voice": "Chinese (Mandarin)_Male_Announcer",
+   "emotion": null
+  },
+  "hopkins": {
+   "voice": "male-qn-daxuesheng-jingpin",
+   "emotion": null
+  },
+  "mary": {
+   "voice": "Chinese (Mandarin)_Gentle_Senior",
+   "emotion": null
+  },
+  "moran": {
+   "voice": "badao_shaoye",
+   "emotion": null
+  },
+  "akechi": {
+   "voice": "Chinese (Mandarin)_Unrestrained_Young_Man",
+   "emotion": null
+  },
+  "poirot": {
+   "voice": "Chinese (Mandarin)_Lyrical_Voice",
+   "emotion": null
+  },
+  "marple": {
+   "voice": "Chinese (Mandarin)_Wise_Women",
+   "emotion": null
+  },
+  "quin": {
+   "voice": "Chinese (Mandarin)_Radio_Host",
+   "emotion": null
+  },
+  "satterthwaite": {
+   "voice": "Chinese (Mandarin)_Humorous_Elder",
+   "emotion": null
+  },
+  "japp": {
+   "voice": "male-qn-jingying-jingpin",
+   "emotion": null
+  },
+  "brown": {
+   "voice": "Chinese (Mandarin)_Stubborn_Friend",
+   "emotion": null
+  },
+  "flambeau": {
+   "voice": "badao_shaoye",
+   "emotion": null
+  },
+  "lupin": {
+   "voice": "Chinese (Mandarin)_Unrestrained_Young_Man",
+   "emotion": null
+  },
+  "ganimard": {
+   "voice": "lengdan_xiongzhang",
+   "emotion": null
+  },
+  "sholmes": {
+   "voice": "Chinese (Mandarin)_Reliable_Executive",
+   "emotion": null
+  },
+  "wilson": {
+   "voice": "Chinese (Mandarin)_Sincere_Adult",
+   "emotion": null
+  },
+  "beautrelet": {
+   "voice": "Chinese (Mandarin)_Gentle_Youth",
+   "emotion": null
+  },
+  "bechoux": {
+   "voice": "Chinese (Mandarin)_Stubborn_Friend",
+   "emotion": null
+  },
+  "huosang": {
+   "voice": "Chinese (Mandarin)_Radio_Host",
+   "emotion": null
+  },
+  "wang": {
+   "voice": "Chinese (Mandarin)_Sincere_Adult",
+   "emotion": null
+  },
+  "lecoq": {
+   "voice": "Chinese (Mandarin)_Gentle_Youth",
+   "emotion": null
+  },
+  "tabaret": {
+   "voice": "Chinese (Mandarin)_Humorous_Elder",
+   "emotion": null
+  },
+  "absinthe": {
+   "voice": "Chinese (Mandarin)_Sincere_Adult",
+   "emotion": null
+  },
+  "di": {
+   "voice": "Chinese (Mandarin)_Humorous_Elder",
+   "emotion": null
+  },
+  "bao": {
+   "voice": "Chinese (Mandarin)_Reliable_Executive",
+   "emotion": null
+  },
+  "lan": {
+   "voice": "Chinese (Mandarin)_Lyrical_Voice",
+   "emotion": null
+  },
+  "oldman": {
+   "voice": "Chinese (Mandarin)_Humorous_Elder",
+   "emotion": null
+  },
+  "polly": {
+   "voice": "Chinese (Mandarin)_Warm_Girl",
+   "emotion": null
+  },
+  "cuff": {
+   "voice": "lengdan_xiongzhang",
+   "emotion": null
+  },
+  "rachel": {
+   "voice": "female-shaonv-jingpin",
+   "emotion": null
+  },
+  "clack": {
+   "voice": "female-chengshu-jingpin",
+   "emotion": null
+  },
+  "vance": {
+   "voice": "bailian:longanlufeng"
+  },
+  "markham": {
+   "voice": "Chinese (Mandarin)_Sincere_Adult",
+   "emotion": null
+  },
+  "heath": {
+   "voice": "badao_shaoye",
+   "emotion": null
+  },
+  "hanshichi": {
+   "voice": "Chinese (Mandarin)_Humorous_Elder",
+   "emotion": null
+  },
+  "umon": {
+   "voice": "lengdan_xiongzhang",
+   "emotion": null
+  },
+  "denroku": {
+   "voice": "Chinese (Mandarin)_Unrestrained_Young_Man",
+   "emotion": null
+  },
+  "keishiro": {
+   "voice": "badao_shaoye",
+   "emotion": null
+  },
+  "raffles": {
+   "voice": "junlang_nanyou",
+   "emotion": null
+  },
+  "trent": {
+   "voice": "Chinese (Mandarin)_Gentle_Youth",
+   "emotion": null
+  },
+  "gillingham": {
+   "voice": "male-qn-qingse-jingpin",
+   "emotion": null
+  },
+  "beverley": {
+   "voice": "Chinese (Mandarin)_Unrestrained_Young_Man",
+   "emotion": null
+  },
+  "loveday": {
+   "voice": "Chinese (Mandarin)_Wise_Women",
+   "emotion": null
+  },
+  "dorcas": {
+   "voice": "female-yujie-jingpin",
+   "emotion": null
+  },
+  "hilda": {
+   "voice": "Chinese (Mandarin)_Warm_Girl",
+   "emotion": null
+  },
+  "molly": {
+   "voice": "Chinese (Mandarin)_Mature_Woman",
+   "emotion": null
+  },
+  "violet": {
+   "voice": "Chinese (Mandarin)_Crisp_Girl",
+   "emotion": null
+  }
+ },
+ "pools": {
+  "man_mid": [
+   "Chinese (Mandarin)_Male_Announcer",
+   "Chinese (Mandarin)_Sincere_Adult",
+   "male-qn-jingying-jingpin",
+   "male-qn-badao-jingpin",
+   "Chinese (Mandarin)_Lyrical_Voice",
+   "Chinese (Mandarin)_Radio_Host",
+   "Chinese (Mandarin)_News_Anchor",
+   "Chinese (Mandarin)_Stubborn_Friend"
+  ],
+  "man_young": [
+   "Chinese (Mandarin)_Gentle_Youth",
+   "male-qn-qingse-jingpin",
+   "Chinese (Mandarin)_Unrestrained_Young_Man",
+   "male-qn-daxuesheng-jingpin",
+   "Chinese (Mandarin)_Stubborn_Friend",
+   "junlang_nanyou"
+  ],
+  "man_old": [
+   "Chinese (Mandarin)_Humorous_Elder",
+   "Chinese (Mandarin)_Male_Announcer",
+   "Chinese (Mandarin)_Lyrical_Voice",
+   "Chinese (Mandarin)_News_Anchor",
+   "Chinese (Mandarin)_Radio_Host",
+   "Chinese (Mandarin)_Sincere_Adult"
+  ],
+  "man_rough": [
+   "Chinese (Mandarin)_Southern_Young_Man",
+   "Chinese (Mandarin)_Unrestrained_Young_Man",
+   "badao_shaoye",
+   "lengdan_xiongzhang"
+  ],
+  "woman_young": [
+   "Chinese (Mandarin)_Sweet_Lady",
+   "Chinese (Mandarin)_Warm_Girl",
+   "Chinese (Mandarin)_Crisp_Girl",
+   "Chinese (Mandarin)_Gentle_Senior",
+   "Chinese (Mandarin)_Soft_Girl",
+   "female-shaonv-jingpin"
+  ],
+  "woman_mid": [
+   "Chinese (Mandarin)_Wise_Women",
+   "Chinese (Mandarin)_Mature_Woman",
+   "female-chengshu-jingpin",
+   "female-yujie-jingpin",
+   "Chinese (Mandarin)_Warm_Bestie",
+   "Chinese (Mandarin)_HK_Flight_Attendant"
+  ],
+  "woman_old": [
+   "Chinese (Mandarin)_Kind-hearted_Elder",
+   "Chinese (Mandarin)_Kind-hearted_Antie",
+   "Chinese (Mandarin)_Wise_Women",
+   "Chinese (Mandarin)_Mature_Woman"
+  ],
+  "boy": [
+   "clever_boy",
+   "Chinese (Mandarin)_Straightforward_Boy",
+   "Chinese (Mandarin)_Pure-hearted_Boy"
+  ],
+  "girl": [
+   "lovely_girl",
+   "Chinese (Mandarin)_Crisp_Girl"
+  ]
+ },
+ "season_narrator": {
+  "范·達因": {
+   "voice": "bailian:longanlingxin",
+   "emotion": "沉穩、溫和、語速偏慢的睡前故事旁白，聲音低一點，像在床邊輕聲說故事。"
+  },
+  "卻斯特頓": {
+   "voice": "bailian:longanlingxin",
+   "emotion": "沉穩、溫和、語速偏慢的睡前故事旁白，聲音低一點，像在床邊輕聲說故事。"
+  },
+  "莫里斯·盧布朗": {
+   "voice": "bailian:longanlingxin",
+   "emotion": "沉穩、溫和、語速偏慢的睡前故事旁白，聲音低一點，像在床邊輕聲說故事。"
+  },
+  "程小青": {
+   "voice": "bailian:longanlingxin",
+   "emotion": "沉穩、溫和、語速偏慢的睡前故事旁白，聲音低一點，像在床邊輕聲說故事。"
+  },
+  "岡本綺堂": {
+   "voice": "bailian:longanlingxin",
+   "emotion": "沉穩、溫和、語速偏慢的睡前故事旁白，聲音低一點，像在床邊輕聲說故事。"
+  },
+  "奧希茲": {
+   "voice": "bailian:longanlingxin",
+   "emotion": "沉穩、溫和、語速偏慢的睡前故事旁白，聲音低一點，像在床邊輕聲說故事。"
+  },
+  "威爾基·柯林斯": {
+   "voice": "bailian:longanlingxin",
+   "emotion": "沉穩、溫和、語速偏慢的睡前故事旁白，聲音低一點，像在床邊輕聲說故事。"
+  },
+  "洪農": {
+   "voice": "bailian:longanlingxin",
+   "emotion": "沉穩、溫和、語速偏慢的睡前故事旁白，聲音低一點，像在床邊輕聲說故事。"
+  },
+  "本特利": {
+   "voice": "bailian:longanlingxin",
+   "emotion": "沉穩、溫和、語速偏慢的睡前故事旁白，聲音低一點，像在床邊輕聲說故事。"
+  },
+  "米恩": {
+   "voice": "bailian:longanlingxin",
+   "emotion": "沉穩、溫和、語速偏慢的睡前故事旁白，聲音低一點，像在床邊輕聲說故事。"
+  },
+  "佐佐木味津三": {
+   "voice": "bailian:longanlingxin",
+   "emotion": "沉穩、溫和、語速偏慢的睡前故事旁白，聲音低一點，像在床邊輕聲說故事。"
+  },
+  "女偵探合輯": {
+   "voice": "bailian:longanlingxin",
+   "emotion": "沉穩、溫和、語速偏慢的睡前故事旁白，聲音低一點，像在床邊輕聲說故事。"
+  },
+  "中國公案": {
+   "voice": "bailian:longanlingxin",
+   "emotion": "沉穩、溫和、語速偏慢的睡前故事旁白，聲音低一點，像在床邊輕聲說故事。"
+  },
+  "加博里歐": {
+   "voice": "bailian:longanlingxin",
+   "emotion": "沉穩、溫和、語速偏慢的睡前故事旁白，聲音低一點，像在床邊輕聲說故事。"
+  }
+ }
+}

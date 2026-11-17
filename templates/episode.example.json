@@ -1,0 +1,39 @@
+{
+ "number": 1,
+ "title": "紅髮會",
+ "title_en": "The Red-Headed League",
+ "series": "福爾摩斯睡前故事",
+ "channel_working_name": "枕邊偵探社",
+ "voice": {
+  "model": "speech-2.8-hd",
+  "voice_id": "Chinese (Mandarin)_Gentleman",
+  "speed": 0.85,
+  "pitch": 0,
+  "emotion": "calm",
+  "pronunciation": [
+   "當鋪/(dang4)(pu4)"
+  ]
+ },
+ "intro": "晚安，歡迎來到枕邊偵探社。<#1.0#>這裡是一間只在夜裡開門的偵探社。<#0.6#>案子會在故事的最後解開，你不用記住任何線索，安心聽就好。<#1.2#>請把燈調暗一點，讓自己舒服地躺好。<#1.2#>今晚的故事，是《福爾摩斯冒險史》裡的〈紅髮會〉。<#0.8#>一位紅頭髮的當鋪老闆，應徵了一份奇怪的差事。<#0.6#>每天只要坐在辦公室裡，抄寫百科全書。<#1.2#>由我，華生，慢慢說給你聽。",
+ "outro": "故事就說到這裡了。<#1.2#>貝克街的爐火還亮著，福爾摩斯擱下了他的菸斗。<#1.0#>今晚，不會再有人來敲門了。<#1.5#>晚安。<#0.8#>好好睡。",
+ "gaps": {
+  "paragraph_s": 1.5,
+  "scene_s": 3.5,
+  "after_intro_s": 3.0,
+  "before_outro_s": 4.0
+ },
+ "scenes": [
+  {
+   "start": "P001",
+   "chapter": "紅髮的委託人",
+   "art": "01-pg190.png"
+  }
+ ],
+ "art_credit": "插畫：Sidney Paget 原刊插畫（1891，公版）",
+ "thumbnail_art": "01-pg190.png",
+ "status": "reviewed",
+ "collection": "《福爾摩斯冒險史》",
+ "narrator": "watson",
+ "source_phrase": "《福爾摩斯冒險史》裡的〈紅髮會〉",
+ "teaser": "一位紅頭髮的當鋪老闆，應徵了一份奇怪的差事。<#0.6#>每天只要坐在辦公室裡，抄寫百科全書。"
+}
